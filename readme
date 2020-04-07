@@ -1,0 +1,11 @@
+#使用beego的开发框架实现一个商城的项目
+
+
+#项目运行 bee run   ip地址：127.0.0.1 /localhost 默认端口号：8080
+    #正常浏览器localhost:8080 会看到beego的欢迎界面
+
+        #如果服务器启动不正常，提示go mod init
+            #如果是环境变量（go env）中 GO111MODULE=on
+                #使用命令set GO111MODULE=off
+    #重新bee run
+
